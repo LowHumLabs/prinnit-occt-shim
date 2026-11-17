@@ -1,0 +1,10 @@
+Prinnit's OCCT shim
+Copyright (c) 2026 Low Hum Labs
+
+This software links Open CASCADE Technology (OCCT), Copyright (c) OPEN CASCADE SAS,
+which is distributed under the GNU Lesser General Public License version 2.1 with the
+Open CASCADE exception (version 1.0). See https://github.com/Open-Cascade-SAS/OCCT
+and https://dev.opencascade.org/resources/licensing.
+
+The shim itself is distributed under the GNU Lesser General Public License version 2.1
+(see LICENSE).
